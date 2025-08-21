@@ -1,7 +1,9 @@
 # 智能简历优化助手 🚀
 
 一个基于AI的智能简历优化工具，帮助求职者根据目标职位描述优化简历内容，提高求职成功率。
-![Uploading image.png…]()
+
+<img width="1942" height="1232" alt="image" src="https://github.com/user-attachments/assets/7e050026-5490-4489-b856-297aded3eb68" />
+
 
 ## ✨ 核心功能
 
